@@ -1,0 +1,64 @@
+h1{
+    color: rgb(25, 0, 255);
+    text-align: center;
+    margin-top: 30px;
+}
+h2{
+    color: red;
+    text-align: center;
+    margin-top: 40px;
+}
+
+p{
+    color: red;
+    text-align: center;
+    font-style: italic;
+    font-size: 23px;
+}
+body{
+    background-color: lightskyblue;
+}
+
+
+#newPhone{
+    text-align: center;
+    margin: 0 auto 0 auto;
+    padding-top: 20px;
+}
+
+#hibagomb{
+    margin-top: 20px;
+    border: solid red 3px;
+    border-radius: 25px;
+    text-transform: uppercase;
+    background-color: aquamarine;
+}
+
+#myphoneTable{
+    width: 600px;
+    margin: 15px auto 0 auto;
+    text-align: center;
+}
+
+#myphoneTable td{
+    border: 1px solid blue;
+    background-color: rgb(89, 96, 194);
+    color: azure;
+    
+}
+
+#myphoneTable th{
+    border: 1px solid blue;
+    background-color: red;
+    color: azure;
+}
+
+#telo{
+    padding-top: 50px;
+    padding-left: 150px;
+}
+
+blokk{
+    text-align: center;
+    width: 90%;
+}
